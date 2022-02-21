@@ -12,10 +12,10 @@ Mark, votre manager, vous a convié à une réunion pour vous présenter le proj
 
 Réalisation d'une analyse pré-exploratoire du jeu de données : https://datacatalog.worldbank.org/dataset/education-statistics
 
-- validation de la qualité de ce jeu de données (comporte-t-il beaucoup de données manquantes, dupliquées ?)
-- description des informations contenues dans le jeu de données (nombre de colonnes ? nombre de lignes ?)
-- sélection des informations qui semblent pertinentes pour répondre à la problématique (quelles sont les colonnes contenant des informations qui peuvent être utiles pour répondre à la problématique de l’entreprise ?)
-- détermination des ordres de grandeurs des indicateurs statistiques classiques pour les différentes zones géographiques et pays du monde (moyenne/médiane/écart-type par pays et par continent ou bloc géographique)
+- Validation de la qualité de ce jeu de données (comporte-t-il beaucoup de données manquantes, dupliquées ?)
+- Description des informations contenues dans le jeu de données (nombre de colonnes ? nombre de lignes ?)
+- Sélection des informations qui semblent pertinentes pour répondre à la problématique (quelles sont les colonnes contenant des informations qui peuvent être utiles pour répondre à la problématique de l’entreprise ?)
+- Détermination des ordres de grandeurs des indicateurs statistiques classiques pour les différentes zones géographiques et pays du monde (moyenne/médiane/écart-type par pays et par continent ou bloc géographique)
 
 <h2>Compétences évaluées</h2>
 
