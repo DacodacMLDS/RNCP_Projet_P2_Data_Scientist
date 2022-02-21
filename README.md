@@ -26,7 +26,8 @@ Réalisation d'une analyse pré-exploratoire du jeu de données : https://dataca
 - Maîtriser les opérations fondamentales du langage Python pour la Data Science
 
 <h2>Contenu du dépôt GitHub</h2>
-
+- README.md (fichier présentation projet)
+- academy.jpg (image illustration README.md)
 - Répertoire "Notebooks":
   - fichier "P2_01_notebook.ipynb": fichier notebook Jupyter en Python
   
